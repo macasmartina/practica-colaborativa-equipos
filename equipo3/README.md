@@ -3,7 +3,7 @@
 
 ## Integrantes
 - [x] Anaela Romero
-- [ ] Integrante 2
+- [X] Tatiana Pauzhe
 - [ ] Integrante 3
 - [ ] Integrante 4
 
